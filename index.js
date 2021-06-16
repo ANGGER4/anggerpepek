@@ -92,9 +92,9 @@ nomerowner = RuriChan.nomerlu
 //vcard
 const vcard = 'BEGIN:VCARD\n' 
               + 'VERSION:3.0\n' 
-              + 'FN:' + namaowner + 'ツ\n'
-              + 'ORG: Owner' + namabot + ';\n'
-              + 'TEL;type=CELL;type=VOICE;waid=' + nomerowner + ':+' + nomerowner + '\n'
+              + 'FN:' + 'ANGGER' + 'ツ\n'
+              + 'ORG: Owner' + 'KAGUYA' + ';\n'
+              + 'TEL;type=CELL;type=VOICE;waid=' + 6285156336420 + ':+' + 6285156336420 + '\n'
               + 'END:VCARD' //gausah diganti
               
 //ini biarin aja
