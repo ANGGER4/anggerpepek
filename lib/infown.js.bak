@@ -1,0 +1,14 @@
+const infown = () => { 
+	return `
+  ◪ Rurichan
+  │
+  ├─ ❏ WhatsApp
+  ├─ ❏ wa.me/6289505329516
+  ├─ ❏ YouTube
+  ├─ ❏ https://www.youtube.com/channel/UC8IMYvk5Vpze_9kRUwdecZw
+  ├─ ❏ Instagram
+  └─ ❏ https://www.instagram.com/scytfdhd._
+`
+}
+
+exports.infown = infown
